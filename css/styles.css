@@ -288,8 +288,6 @@ a {
 /* Cards */
 
 .card {
-    width: 30%;
-    padding: 4rem;
     border-radius: 7px;
     box-shadow: 0 0 20px 10px #f3f3f3;
     overflow: hidden;
